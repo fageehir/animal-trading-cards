@@ -1,0 +1,42 @@
+
+ul {
+   padding-left: 0;
+   }
+
+#interesting_fact {
+  font-style: italic;
+  }
+
+.List_Labels {
+  font-weight: bold;
+  text-align: left;
+  }
+
+.List_items {
+  list-style: none;
+  text-align: left;
+  }
+
+#outer_border {
+  border: 1px grey solid;
+  padding: 15px;
+  width: 300px;
+  background-color: #CAFFB4;
+  border-radius: 25px 25px;
+  }
+
+#inner-border {
+  border: 1px grey solid;
+  padding: 15px;
+  border-radius: 25px 25px;
+  }
+
+
+
+
+  /* italicized text for the animal's interesting fact *Done
+  bolded labels for the animal's list items (e.g. 'Habitat') *Done
+  no dots for the animal's list items *Done
+  border around the animal's name, image, and information *Done
+  border around the animal's information *Done
+  spacing between the animal's name, image, and information *Done
